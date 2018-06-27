@@ -1,6 +1,6 @@
 {
   "name": "@appbaseio/reactivesearch",
-  "version": "2.6.8",
+  "version": "2.6.9-SNAPSHOT",
   "description": "A React UI components library for building search experiences",
   "main": "lib/index.js",
   "typings": "./src/index.d.ts",
@@ -30,7 +30,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@appbaseio/reactivecore": "^3.3.0",
-    "appbase-js": "^3.0.0",
+    "appbase-js": "https://github.com/waiknott/appbase-js/tarball/master",
     "downshift": "^1.31.2",
     "emotion": "^9.0.0",
     "emotion-theming": "^9.0.0",
